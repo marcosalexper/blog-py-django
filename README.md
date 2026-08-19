@@ -1,4 +1,4 @@
-#BLOG
+# BLOG
 
 Um projeto de blog pessoal desenvolvido com **Python**, **Django** e containerizado utilizando **Docker**.
 
