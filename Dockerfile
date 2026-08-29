@@ -1,8 +1,8 @@
-FROM python:3.11.3-alpine.3.18
+FROM python:3.12-alpine
+
 LABEL maintainer="marcosalexper@gmail.com"
 
 ENV PYTHONDONTWRITEBYTECODE 1
-
 ENV PYTHONUNBUFFERED 1
 
 COPY /djangoapp /djangoapp
